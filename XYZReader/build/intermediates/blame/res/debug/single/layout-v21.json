@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/layout-v21/notification_action.xml"
+    }
+]

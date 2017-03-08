@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/34be7f00841ce62e747cace6b51cf16cc8a0a4ba/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/34be7f00841ce62e747cace6b51cf16cc8a0a4ba/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/34be7f00841ce62e747cace6b51cf16cc8a0a4ba/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/34be7f00841ce62e747cace6b51cf16cc8a0a4ba/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/34be7f00841ce62e747cace6b51cf16cc8a0a4ba/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/34be7f00841ce62e747cace6b51cf16cc8a0a4ba/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]
