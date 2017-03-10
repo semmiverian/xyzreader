@@ -759,6 +759,7 @@ int id add 0x7f0e001e
 int id alertTitle 0x7f0e0058
 int id all 0x7f0e0036
 int id always 0x7f0e003a
+int id appbar 0x7f0e0086
 int id article_body 0x7f0e008c
 int id article_byline 0x7f0e008b
 int id article_subtitle 0x7f0e008f
@@ -776,6 +777,7 @@ int id chronometer 0x7f0e009c
 int id clip_horizontal 0x7f0e0032
 int id clip_vertical 0x7f0e0033
 int id collapseActionView 0x7f0e003b
+int id collapsing_toolbar 0x7f0e0087
 int id contentPanel 0x7f0e004e
 int id custom 0x7f0e0055
 int id customPanel 0x7f0e0054
@@ -787,7 +789,6 @@ int id design_menu_item_action_area_stub 0x7f0e0082
 int id design_menu_item_text 0x7f0e0081
 int id design_navigation_view 0x7f0e0080
 int id disableHome 0x7f0e0012
-int id draw_insets_frame_layout 0x7f0e0085
 int id edit_query 0x7f0e0066
 int id end 0x7f0e002a
 int id end_padder 0x7f0e00a6
@@ -814,6 +815,7 @@ int id line1 0x7f0e00a2
 int id line3 0x7f0e00a4
 int id listMode 0x7f0e000f
 int id list_item 0x7f0e0048
+int id main_content 0x7f0e0085
 int id masked 0x7f0e00a8
 int id media_actions 0x7f0e0096
 int id meta_bar 0x7f0e0089
@@ -831,7 +833,6 @@ int id pager 0x7f0e0073
 int id parallax 0x7f0e0030
 int id parentPanel 0x7f0e004d
 int id photo 0x7f0e0088
-int id photo_container 0x7f0e0087
 int id pin 0x7f0e0031
 int id progress_circular 0x7f0e0006
 int id progress_horizontal 0x7f0e0007
@@ -847,7 +848,6 @@ int id scrollIndicatorDown 0x7f0e0053
 int id scrollIndicatorUp 0x7f0e004f
 int id scrollView 0x7f0e0050
 int id scrollable 0x7f0e0040
-int id scrollview 0x7f0e0086
 int id search_badge 0x7f0e0068
 int id search_bar 0x7f0e0067
 int id search_button 0x7f0e0069

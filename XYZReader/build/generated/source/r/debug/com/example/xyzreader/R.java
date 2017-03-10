@@ -2838,6 +2838,7 @@ containing a value of this type.
         public static final int alertTitle=0x7f0e0058;
         public static final int all=0x7f0e0036;
         public static final int always=0x7f0e003a;
+        public static final int appbar=0x7f0e0086;
         public static final int article_body=0x7f0e008c;
         public static final int article_byline=0x7f0e008b;
         public static final int article_subtitle=0x7f0e008f;
@@ -2855,6 +2856,7 @@ containing a value of this type.
         public static final int clip_horizontal=0x7f0e0032;
         public static final int clip_vertical=0x7f0e0033;
         public static final int collapseActionView=0x7f0e003b;
+        public static final int collapsing_toolbar=0x7f0e0087;
         public static final int contentPanel=0x7f0e004e;
         public static final int custom=0x7f0e0055;
         public static final int customPanel=0x7f0e0054;
@@ -2866,7 +2868,6 @@ containing a value of this type.
         public static final int design_menu_item_text=0x7f0e0081;
         public static final int design_navigation_view=0x7f0e0080;
         public static final int disableHome=0x7f0e0012;
-        public static final int draw_insets_frame_layout=0x7f0e0085;
         public static final int edit_query=0x7f0e0066;
         public static final int end=0x7f0e002a;
         public static final int end_padder=0x7f0e00a6;
@@ -2893,6 +2894,7 @@ containing a value of this type.
         public static final int line3=0x7f0e00a4;
         public static final int listMode=0x7f0e000f;
         public static final int list_item=0x7f0e0048;
+        public static final int main_content=0x7f0e0085;
         public static final int masked=0x7f0e00a8;
         public static final int media_actions=0x7f0e0096;
         public static final int meta_bar=0x7f0e0089;
@@ -2910,7 +2912,6 @@ containing a value of this type.
         public static final int parallax=0x7f0e0030;
         public static final int parentPanel=0x7f0e004d;
         public static final int photo=0x7f0e0088;
-        public static final int photo_container=0x7f0e0087;
         public static final int pin=0x7f0e0031;
         public static final int progress_circular=0x7f0e0006;
         public static final int progress_horizontal=0x7f0e0007;
@@ -2926,7 +2927,6 @@ containing a value of this type.
         public static final int scrollIndicatorUp=0x7f0e004f;
         public static final int scrollView=0x7f0e0050;
         public static final int scrollable=0x7f0e0040;
-        public static final int scrollview=0x7f0e0086;
         public static final int search_badge=0x7f0e0068;
         public static final int search_bar=0x7f0e0067;
         public static final int search_button=0x7f0e0069;
