@@ -32,12 +32,12 @@
         "source": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/src/main/res/layout/article_detail_content.xml"
     },
     {
-        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
         "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
         "source": "/Users/Semmiverian/.android/build-cache/34be7f00841ce62e747cace6b51cf16cc8a0a4ba/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
@@ -76,12 +76,12 @@
         "source": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/src/main/res/layout/fragment_article_detail.xml"
     },
     {
-        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
