@@ -120,12 +120,12 @@
         "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
-        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png",
         "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png",

@@ -83,9 +83,9 @@
                     "startLine": 6,
                     "startColumn": 4,
                     "startOffset": 354,
-                    "endLine": 12,
+                    "endLine": 11,
                     "endColumn": 12,
-                    "endOffset": 716
+                    "endOffset": 638
                 },
                 "from": {
                     "file": "/Users/Semmiverian/Documents/Learning/Udacity/xyzreader/XYZReader/src/main/res/values-v21/styles.xml",
@@ -93,19 +93,19 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 17,
-                        "endLine": 8,
+                        "endLine": 7,
                         "endColumn": 12,
-                        "endOffset": 379
+                        "endOffset": 301
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 721,
+                    "startOffset": 643,
                     "endColumn": 90,
-                    "endOffset": 807
+                    "endOffset": 729
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -120,11 +120,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 812,
+                    "startOffset": 734,
                     "endColumn": 102,
-                    "endOffset": 910
+                    "endOffset": 832
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -139,11 +139,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 915,
+                    "startOffset": 837,
                     "endColumn": 102,
-                    "endOffset": 1013
+                    "endOffset": 935
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -158,11 +158,11 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1018,
+                    "startOffset": 940,
                     "endColumn": 104,
-                    "endOffset": 1118
+                    "endOffset": 1040
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -177,11 +177,11 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1123,
+                    "startOffset": 1045,
                     "endColumn": 106,
-                    "endOffset": 1225
+                    "endOffset": 1147
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -196,11 +196,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1230,
+                    "startOffset": 1152,
                     "endColumn": 108,
-                    "endOffset": 1334
+                    "endOffset": 1256
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -215,11 +215,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1339,
+                    "startOffset": 1261,
                     "endColumn": 108,
-                    "endOffset": 1443
+                    "endOffset": 1365
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -234,11 +234,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1448,
+                    "startOffset": 1370,
                     "endColumn": 108,
-                    "endOffset": 1552
+                    "endOffset": 1474
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -253,11 +253,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1557,
+                    "startOffset": 1479,
                     "endColumn": 108,
-                    "endOffset": 1661
+                    "endOffset": 1583
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -272,11 +272,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1666,
+                    "startOffset": 1588,
                     "endColumn": 108,
-                    "endOffset": 1770
+                    "endOffset": 1692
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -291,11 +291,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1775,
+                    "startOffset": 1697,
                     "endColumn": 106,
-                    "endOffset": 1877
+                    "endOffset": 1799
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -310,11 +310,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1882,
+                    "startOffset": 1804,
                     "endColumn": 102,
-                    "endOffset": 1980
+                    "endOffset": 1902
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -329,11 +329,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1985,
+                    "startOffset": 1907,
                     "endColumn": 118,
-                    "endOffset": 2099
+                    "endOffset": 2021
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -348,12 +348,12 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2104,
-                    "endLine": 27,
+                    "startOffset": 2026,
+                    "endLine": 26,
                     "endColumn": 12,
-                    "endOffset": 2254
+                    "endOffset": 2176
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -369,12 +369,12 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2259,
-                    "endLine": 29,
+                    "startOffset": 2181,
+                    "endLine": 28,
                     "endColumn": 12,
-                    "endOffset": 2409
+                    "endOffset": 2331
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -390,11 +390,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2414,
+                    "startOffset": 2336,
                     "endColumn": 104,
-                    "endOffset": 2514
+                    "endOffset": 2436
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -409,11 +409,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2519,
+                    "startOffset": 2441,
                     "endColumn": 120,
-                    "endOffset": 2635
+                    "endOffset": 2557
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -428,11 +428,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2640,
+                    "startOffset": 2562,
                     "endColumn": 100,
-                    "endOffset": 2736
+                    "endOffset": 2658
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -447,12 +447,12 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2741,
-                    "endLine": 34,
+                    "startOffset": 2663,
+                    "endLine": 33,
                     "endColumn": 12,
-                    "endOffset": 2883
+                    "endOffset": 2805
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -468,12 +468,12 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2888,
-                    "endLine": 36,
+                    "startOffset": 2810,
+                    "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 3024
+                    "endOffset": 2946
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -489,11 +489,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3029,
+                    "startOffset": 2951,
                     "endColumn": 102,
-                    "endOffset": 3127
+                    "endOffset": 3049
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -508,11 +508,11 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 3132,
+                    "startOffset": 3054,
                     "endColumn": 118,
-                    "endOffset": 3246
+                    "endOffset": 3168
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -527,11 +527,11 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 3251,
+                    "startOffset": 3173,
                     "endColumn": 106,
-                    "endOffset": 3353
+                    "endOffset": 3275
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -546,11 +546,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 3358,
+                    "startOffset": 3280,
                     "endColumn": 102,
-                    "endOffset": 3456
+                    "endOffset": 3378
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -565,12 +565,12 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3461,
-                    "endLine": 42,
+                    "startOffset": 3383,
+                    "endLine": 41,
                     "endColumn": 12,
-                    "endOffset": 3611
+                    "endOffset": 3533
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -586,12 +586,12 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3616,
-                    "endLine": 44,
+                    "startOffset": 3538,
+                    "endLine": 43,
                     "endColumn": 12,
-                    "endOffset": 3782
+                    "endOffset": 3704
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -607,12 +607,12 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3787,
-                    "endLine": 46,
+                    "startOffset": 3709,
+                    "endLine": 45,
                     "endColumn": 12,
-                    "endOffset": 3931
+                    "endOffset": 3853
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -628,12 +628,12 @@
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3936,
-                    "endLine": 48,
+                    "startOffset": 3858,
+                    "endLine": 47,
                     "endColumn": 12,
-                    "endOffset": 4096
+                    "endOffset": 4018
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -649,12 +649,12 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 4101,
-                    "endLine": 50,
+                    "startOffset": 4023,
+                    "endLine": 49,
                     "endColumn": 12,
-                    "endOffset": 4253
+                    "endOffset": 4175
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -670,12 +670,12 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4258,
-                    "endLine": 52,
+                    "startOffset": 4180,
+                    "endLine": 51,
                     "endColumn": 12,
-                    "endOffset": 4404
+                    "endOffset": 4326
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -691,11 +691,11 @@
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 4409,
+                    "startOffset": 4331,
                     "endColumn": 118,
-                    "endOffset": 4523
+                    "endOffset": 4445
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -710,12 +710,12 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 4528,
-                    "endLine": 58,
+                    "startOffset": 4450,
+                    "endLine": 57,
                     "endColumn": 12,
-                    "endOffset": 4895
+                    "endOffset": 4817
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -731,12 +731,12 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 4900,
-                    "endLine": 60,
+                    "startOffset": 4822,
+                    "endLine": 59,
                     "endColumn": 12,
-                    "endOffset": 5044
+                    "endOffset": 4966
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -752,12 +752,12 @@
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 5049,
-                    "endLine": 62,
+                    "startOffset": 4971,
+                    "endLine": 61,
                     "endColumn": 12,
-                    "endOffset": 5193
+                    "endOffset": 5115
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -773,11 +773,11 @@
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 5198,
+                    "startOffset": 5120,
                     "endColumn": 111,
-                    "endOffset": 5305
+                    "endOffset": 5227
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -792,11 +792,11 @@
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 5310,
+                    "startOffset": 5232,
                     "endColumn": 146,
-                    "endOffset": 5452
+                    "endOffset": 5374
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -811,12 +811,12 @@
             },
             {
                 "to": {
-                    "startLine": 65,
+                    "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 5457,
-                    "endLine": 66,
+                    "startOffset": 5379,
+                    "endLine": 65,
                     "endColumn": 12,
-                    "endOffset": 5605
+                    "endOffset": 5527
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -832,12 +832,12 @@
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 5610,
-                    "endLine": 68,
+                    "startOffset": 5532,
+                    "endLine": 67,
                     "endColumn": 12,
-                    "endOffset": 5752
+                    "endOffset": 5674
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -853,11 +853,11 @@
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 5757,
+                    "startOffset": 5679,
                     "endColumn": 74,
-                    "endOffset": 5827
+                    "endOffset": 5749
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -872,11 +872,11 @@
             },
             {
                 "to": {
-                    "startLine": 70,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 5832,
+                    "startOffset": 5754,
                     "endColumn": 88,
-                    "endOffset": 5916
+                    "endOffset": 5838
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -891,11 +891,11 @@
             },
             {
                 "to": {
-                    "startLine": 71,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 5921,
+                    "startOffset": 5843,
                     "endColumn": 86,
-                    "endOffset": 6003
+                    "endOffset": 5925
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -910,11 +910,11 @@
             },
             {
                 "to": {
-                    "startLine": 72,
+                    "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 6008,
+                    "startOffset": 5930,
                     "endColumn": 100,
-                    "endOffset": 6104
+                    "endOffset": 6026
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -929,11 +929,11 @@
             },
             {
                 "to": {
-                    "startLine": 73,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 6109,
+                    "startOffset": 6031,
                     "endColumn": 102,
-                    "endOffset": 6207
+                    "endOffset": 6129
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -948,12 +948,12 @@
             },
             {
                 "to": {
-                    "startLine": 74,
+                    "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 6212,
-                    "endLine": 117,
+                    "startOffset": 6134,
+                    "endLine": 116,
                     "endColumn": 12,
-                    "endOffset": 9275
+                    "endOffset": 9197
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -969,12 +969,12 @@
             },
             {
                 "to": {
-                    "startLine": 118,
+                    "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 9280,
-                    "endLine": 120,
+                    "startOffset": 9202,
+                    "endLine": 119,
                     "endColumn": 12,
-                    "endOffset": 9461
+                    "endOffset": 9383
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -990,12 +990,12 @@
             },
             {
                 "to": {
-                    "startLine": 121,
+                    "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 9466,
-                    "endLine": 164,
+                    "startOffset": 9388,
+                    "endLine": 163,
                     "endColumn": 12,
-                    "endOffset": 12541
+                    "endOffset": 12463
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1011,12 +1011,12 @@
             },
             {
                 "to": {
-                    "startLine": 165,
+                    "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 12546,
-                    "endLine": 167,
+                    "startOffset": 12468,
+                    "endLine": 166,
                     "endColumn": 12,
-                    "endOffset": 12739
+                    "endOffset": 12661
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1032,12 +1032,12 @@
             },
             {
                 "to": {
-                    "startLine": 168,
+                    "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 12744,
-                    "endLine": 170,
+                    "startOffset": 12666,
+                    "endLine": 169,
                     "endColumn": 12,
-                    "endOffset": 12939
+                    "endOffset": 12861
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1053,12 +1053,12 @@
             },
             {
                 "to": {
-                    "startLine": 171,
+                    "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 12944,
-                    "endLine": 172,
+                    "startOffset": 12866,
+                    "endLine": 171,
                     "endColumn": 12,
-                    "endOffset": 13062
+                    "endOffset": 12984
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1074,12 +1074,12 @@
             },
             {
                 "to": {
-                    "startLine": 173,
+                    "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 13067,
-                    "endLine": 174,
+                    "startOffset": 12989,
+                    "endLine": 173,
                     "endColumn": 12,
-                    "endOffset": 13185
+                    "endOffset": 13107
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1095,12 +1095,12 @@
             },
             {
                 "to": {
-                    "startLine": 175,
+                    "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 13190,
-                    "endLine": 176,
+                    "startOffset": 13112,
+                    "endLine": 175,
                     "endColumn": 12,
-                    "endOffset": 13298
+                    "endOffset": 13220
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1116,12 +1116,12 @@
             },
             {
                 "to": {
-                    "startLine": 177,
+                    "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 13303,
-                    "endLine": 179,
+                    "startOffset": 13225,
+                    "endLine": 178,
                     "endColumn": 12,
-                    "endOffset": 13481
+                    "endOffset": 13403
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1137,12 +1137,12 @@
             },
             {
                 "to": {
-                    "startLine": 180,
+                    "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 13486,
-                    "endLine": 181,
+                    "startOffset": 13408,
+                    "endLine": 180,
                     "endColumn": 12,
-                    "endOffset": 13612
+                    "endOffset": 13534
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1158,12 +1158,12 @@
             },
             {
                 "to": {
-                    "startLine": 182,
+                    "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 13617,
-                    "endLine": 184,
+                    "startOffset": 13539,
+                    "endLine": 183,
                     "endColumn": 12,
-                    "endOffset": 13813
+                    "endOffset": 13735
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1179,11 +1179,11 @@
             },
             {
                 "to": {
-                    "startLine": 185,
+                    "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 13818,
+                    "startOffset": 13740,
                     "endColumn": 88,
-                    "endOffset": 13902
+                    "endOffset": 13824
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1198,11 +1198,11 @@
             },
             {
                 "to": {
-                    "startLine": 186,
+                    "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 13907,
+                    "startOffset": 13829,
                     "endColumn": 110,
-                    "endOffset": 14013
+                    "endOffset": 13935
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1217,12 +1217,12 @@
             },
             {
                 "to": {
-                    "startLine": 187,
+                    "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 14018,
-                    "endLine": 189,
+                    "startOffset": 13940,
+                    "endLine": 188,
                     "endColumn": 12,
-                    "endOffset": 14246
+                    "endOffset": 14168
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1238,11 +1238,11 @@
             },
             {
                 "to": {
-                    "startLine": 190,
+                    "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 14251,
+                    "startOffset": 14173,
                     "endColumn": 100,
-                    "endOffset": 14347
+                    "endOffset": 14269
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1257,11 +1257,11 @@
             },
             {
                 "to": {
-                    "startLine": 191,
+                    "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 14352,
+                    "startOffset": 14274,
                     "endColumn": 94,
-                    "endOffset": 14442
+                    "endOffset": 14364
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1276,11 +1276,11 @@
             },
             {
                 "to": {
-                    "startLine": 192,
+                    "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 14447,
+                    "startOffset": 14369,
                     "endColumn": 122,
-                    "endOffset": 14565
+                    "endOffset": 14487
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1295,11 +1295,11 @@
             },
             {
                 "to": {
-                    "startLine": 193,
+                    "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 14570,
+                    "startOffset": 14492,
                     "endColumn": 128,
-                    "endOffset": 14694
+                    "endOffset": 14616
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1314,11 +1314,11 @@
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 14699,
+                    "startOffset": 14621,
                     "endColumn": 116,
-                    "endOffset": 14811
+                    "endOffset": 14733
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1333,12 +1333,12 @@
             },
             {
                 "to": {
-                    "startLine": 195,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 14816,
-                    "endLine": 197,
+                    "startOffset": 14738,
+                    "endLine": 196,
                     "endColumn": 12,
-                    "endOffset": 14988
+                    "endOffset": 14910
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1354,11 +1354,11 @@
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 14993,
+                    "startOffset": 14915,
                     "endColumn": 98,
-                    "endOffset": 15087
+                    "endOffset": 15009
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1373,12 +1373,12 @@
             },
             {
                 "to": {
-                    "startLine": 199,
+                    "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 15092,
-                    "endLine": 200,
+                    "startOffset": 15014,
+                    "endLine": 199,
                     "endColumn": 12,
-                    "endOffset": 15222
+                    "endOffset": 15144
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1394,12 +1394,12 @@
             },
             {
                 "to": {
-                    "startLine": 201,
+                    "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 15227,
-                    "endLine": 202,
+                    "startOffset": 15149,
+                    "endLine": 201,
                     "endColumn": 12,
-                    "endOffset": 15365
+                    "endOffset": 15287
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1415,12 +1415,12 @@
             },
             {
                 "to": {
-                    "startLine": 203,
+                    "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 15370,
-                    "endLine": 204,
+                    "startOffset": 15292,
+                    "endLine": 203,
                     "endColumn": 12,
-                    "endOffset": 15500
+                    "endOffset": 15422
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1436,12 +1436,12 @@
             },
             {
                 "to": {
-                    "startLine": 205,
+                    "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 15505,
-                    "endLine": 206,
+                    "startOffset": 15427,
+                    "endLine": 205,
                     "endColumn": 12,
-                    "endOffset": 15619
+                    "endOffset": 15541
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1457,12 +1457,12 @@
             },
             {
                 "to": {
-                    "startLine": 207,
+                    "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 15624,
-                    "endLine": 210,
+                    "startOffset": 15546,
+                    "endLine": 209,
                     "endColumn": 12,
-                    "endOffset": 15820
+                    "endOffset": 15742
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1478,12 +1478,12 @@
             },
             {
                 "to": {
-                    "startLine": 211,
+                    "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 15825,
-                    "endLine": 212,
+                    "startOffset": 15747,
+                    "endLine": 211,
                     "endColumn": 12,
-                    "endOffset": 15939
+                    "endOffset": 15861
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1499,11 +1499,11 @@
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 15944,
+                    "startOffset": 15866,
                     "endColumn": 92,
-                    "endOffset": 16032
+                    "endOffset": 15954
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1518,11 +1518,11 @@
             },
             {
                 "to": {
-                    "startLine": 214,
+                    "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 16037,
+                    "startOffset": 15959,
                     "endColumn": 110,
-                    "endOffset": 16143
+                    "endOffset": 16065
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1537,11 +1537,11 @@
             },
             {
                 "to": {
-                    "startLine": 215,
+                    "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 16148,
+                    "startOffset": 16070,
                     "endColumn": 55,
-                    "endOffset": 16199
+                    "endOffset": 16121
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1556,12 +1556,12 @@
             },
             {
                 "to": {
-                    "startLine": 216,
+                    "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 16204,
-                    "endLine": 217,
+                    "startOffset": 16126,
+                    "endLine": 216,
                     "endColumn": 12,
-                    "endOffset": 16306
+                    "endOffset": 16228
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1577,12 +1577,12 @@
             },
             {
                 "to": {
-                    "startLine": 218,
+                    "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 16311,
-                    "endLine": 221,
+                    "startOffset": 16233,
+                    "endLine": 220,
                     "endColumn": 12,
-                    "endOffset": 16501
+                    "endOffset": 16423
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1598,12 +1598,12 @@
             },
             {
                 "to": {
-                    "startLine": 222,
+                    "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 16506,
-                    "endLine": 223,
+                    "startOffset": 16428,
+                    "endLine": 222,
                     "endColumn": 12,
-                    "endOffset": 16612
+                    "endOffset": 16534
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1619,12 +1619,12 @@
             },
             {
                 "to": {
-                    "startLine": 224,
+                    "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 16617,
-                    "endLine": 225,
+                    "startOffset": 16539,
+                    "endLine": 224,
                     "endColumn": 12,
-                    "endOffset": 16745
+                    "endOffset": 16667
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1640,11 +1640,11 @@
             },
             {
                 "to": {
-                    "startLine": 226,
+                    "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 16750,
+                    "startOffset": 16672,
                     "endColumn": 94,
-                    "endOffset": 16840
+                    "endOffset": 16762
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1659,11 +1659,11 @@
             },
             {
                 "to": {
-                    "startLine": 227,
+                    "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 16845,
+                    "startOffset": 16767,
                     "endColumn": 90,
-                    "endOffset": 16931
+                    "endOffset": 16853
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1678,11 +1678,11 @@
             },
             {
                 "to": {
-                    "startLine": 228,
+                    "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 16936,
+                    "startOffset": 16858,
                     "endColumn": 90,
-                    "endOffset": 17022
+                    "endOffset": 16944
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1697,11 +1697,11 @@
             },
             {
                 "to": {
-                    "startLine": 229,
+                    "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 17027,
+                    "startOffset": 16949,
                     "endColumn": 116,
-                    "endOffset": 17139
+                    "endOffset": 17061
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1716,12 +1716,12 @@
             },
             {
                 "to": {
-                    "startLine": 230,
+                    "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 17144,
-                    "endLine": 231,
+                    "startOffset": 17066,
+                    "endLine": 230,
                     "endColumn": 12,
-                    "endOffset": 17278
+                    "endOffset": 17200
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1737,11 +1737,11 @@
             },
             {
                 "to": {
-                    "startLine": 232,
+                    "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 17283,
+                    "startOffset": 17205,
                     "endColumn": 70,
-                    "endOffset": 17349
+                    "endOffset": 17271
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1756,11 +1756,11 @@
             },
             {
                 "to": {
-                    "startLine": 233,
+                    "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 17354,
+                    "startOffset": 17276,
                     "endColumn": 82,
-                    "endOffset": 17432
+                    "endOffset": 17354
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1775,12 +1775,12 @@
             },
             {
                 "to": {
-                    "startLine": 234,
+                    "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 17437,
-                    "endLine": 243,
+                    "startOffset": 17359,
+                    "endLine": 242,
                     "endColumn": 12,
-                    "endOffset": 18112
+                    "endOffset": 18034
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1796,11 +1796,11 @@
             },
             {
                 "to": {
-                    "startLine": 244,
+                    "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 18117,
+                    "startOffset": 18039,
                     "endColumn": 56,
-                    "endOffset": 18169
+                    "endOffset": 18091
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1815,11 +1815,11 @@
             },
             {
                 "to": {
-                    "startLine": 245,
+                    "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 18174,
+                    "startOffset": 18096,
                     "endColumn": 57,
-                    "endOffset": 18227
+                    "endOffset": 18149
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1834,12 +1834,12 @@
             },
             {
                 "to": {
-                    "startLine": 246,
+                    "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 18232,
-                    "endLine": 257,
+                    "startOffset": 18154,
+                    "endLine": 256,
                     "endColumn": 12,
-                    "endOffset": 18921
+                    "endOffset": 18843
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1855,12 +1855,12 @@
             },
             {
                 "to": {
-                    "startLine": 258,
+                    "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 18926,
-                    "endLine": 269,
+                    "startOffset": 18848,
+                    "endLine": 268,
                     "endColumn": 12,
-                    "endOffset": 19627
+                    "endOffset": 19549
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1876,11 +1876,11 @@
             },
             {
                 "to": {
-                    "startLine": 270,
+                    "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 19632,
+                    "startOffset": 19554,
                     "endColumn": 118,
-                    "endOffset": 19746
+                    "endOffset": 19668
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1895,11 +1895,11 @@
             },
             {
                 "to": {
-                    "startLine": 271,
+                    "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 19751,
+                    "startOffset": 19673,
                     "endColumn": 128,
-                    "endOffset": 19875
+                    "endOffset": 19797
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1914,12 +1914,12 @@
             },
             {
                 "to": {
-                    "startLine": 272,
+                    "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 19880,
-                    "endLine": 274,
+                    "startOffset": 19802,
+                    "endLine": 273,
                     "endColumn": 12,
-                    "endOffset": 20046
+                    "endOffset": 19968
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1935,12 +1935,12 @@
             },
             {
                 "to": {
-                    "startLine": 275,
+                    "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 20051,
-                    "endLine": 277,
+                    "startOffset": 19973,
+                    "endLine": 276,
                     "endColumn": 12,
-                    "endOffset": 20212
+                    "endOffset": 20134
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1956,11 +1956,11 @@
             },
             {
                 "to": {
-                    "startLine": 278,
+                    "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 20217,
+                    "startOffset": 20139,
                     "endColumn": 128,
-                    "endOffset": 20341
+                    "endOffset": 20263
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1975,12 +1975,12 @@
             },
             {
                 "to": {
-                    "startLine": 279,
+                    "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 20346,
-                    "endLine": 281,
+                    "startOffset": 20268,
+                    "endLine": 280,
                     "endColumn": 12,
-                    "endOffset": 20512
+                    "endOffset": 20434
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -1996,11 +1996,11 @@
             },
             {
                 "to": {
-                    "startLine": 282,
+                    "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 20517,
+                    "startOffset": 20439,
                     "endColumn": 130,
-                    "endOffset": 20643
+                    "endOffset": 20565
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -2015,12 +2015,12 @@
             },
             {
                 "to": {
-                    "startLine": 283,
+                    "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 20648,
-                    "endLine": 285,
+                    "startOffset": 20570,
+                    "endLine": 284,
                     "endColumn": 12,
-                    "endOffset": 20813
+                    "endOffset": 20735
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -2036,12 +2036,12 @@
             },
             {
                 "to": {
-                    "startLine": 286,
+                    "startLine": 285,
                     "startColumn": 4,
-                    "startOffset": 20818,
-                    "endLine": 288,
+                    "startOffset": 20740,
+                    "endLine": 287,
                     "endColumn": 12,
-                    "endOffset": 20988
+                    "endOffset": 20910
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -2057,12 +2057,12 @@
             },
             {
                 "to": {
-                    "startLine": 289,
+                    "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 20993,
-                    "endLine": 293,
+                    "startOffset": 20915,
+                    "endLine": 292,
                     "endColumn": 12,
-                    "endOffset": 21329
+                    "endOffset": 21251
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/e5b32afc0b4654c0da657f9f797100e133bd611c/output/res/values-v21/values-v21.xml",
@@ -2078,12 +2078,12 @@
             },
             {
                 "to": {
-                    "startLine": 294,
+                    "startLine": 293,
                     "startColumn": 4,
-                    "startOffset": 21334,
-                    "endLine": 296,
+                    "startOffset": 21256,
+                    "endLine": 295,
                     "endColumn": 12,
-                    "endOffset": 21527
+                    "endOffset": 21449
                 },
                 "from": {
                     "file": "/Users/Semmiverian/.android/build-cache/34be7f00841ce62e747cace6b51cf16cc8a0a4ba/output/res/values-v21/values-v21.xml",
